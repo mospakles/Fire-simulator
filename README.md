@@ -16,4 +16,4 @@ The lightning and regrowth probabilities can be updated in real-time.
 
 A left-mouse click can be used to set a single tree on fire.
 
-For more information: https://rosettacode.org/wiki/Forest_fire
+
